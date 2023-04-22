@@ -1,7 +1,7 @@
 const config = {
 	gatsby: {
 		pathPrefix: '/',
-		siteUrl: 'https://conet-project.github.io/',
+		siteUrl: 'https://www.conettech.ca/',
 		gaTrackingId: null,
 		trailingSlash: false,
 	},

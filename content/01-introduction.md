@@ -27,3 +27,6 @@ Indeed is going to be a very small tutorial but just enough to explain what we n
 Let introduce me, my name is Jorge Oliva, I've been working more than 10 years in the complete software lifecycle, from the analysis and requirement definition, passing for the development, deployment and maintenance. In last times I'm working as R&D Software Engineer playing with all kind of new technologies 😌.
 
 [![view-profile](doc-img/linkedin-btn.png)](https://www.linkedin.com/in/jorge-oliva-29291325/)
+
+
+

@@ -34,11 +34,10 @@ const config = {
 			"01-introduction.md"
 		],
 		collapsedNav: [],
-		links: [{ text: 'Hasura', link: 'https://hasura.io' }],
+		links: [{ text: 'Try it', link: 'https://hasura.io' }],
 		frontLine: false,
 		ignoreIndex: true,
-		title:
-			"<a href='https://hasura.io/learn/'>graphql </a><div class='greenCircle'></div><a href='https://hasura.io/learn/graphql/react/introduction/'>react</a>",
+		title:''
 	},
 	siteMetadata: {
 		title: 'Gatsby Gitbook Boilerplate | Hasura',
@@ -50,20 +49,20 @@ const config = {
 	pwa: {
 		enabled: false, // disabling this will also remove the existing service worker.
 		manifest: {
-		name: 'Gatsby Gitbook Starter',
-		short_name: 'GitbookStarter',
-		start_url: '/',
-		background_color: '#6b37bf',
-		theme_color: '#6b37bf',
-		display: 'standalone',
-		crossOrigin: 'use-credentials',
-		icons: [
-			{
-			src: 'src/pwa-512.png',
-			sizes: `512x512`,
-			type: `image/png`,
-			},
-		],
+			name: 'Gatsby Gitbook Starter',
+			short_name: 'GitbookStarter',
+			start_url: '/',
+			background_color: '#6b37bf',
+			theme_color: '#6b37bf',
+			display: 'standalone',
+			crossOrigin: 'use-credentials',
+			icons: [
+				{
+				src: 'src/pwa-512.png',
+				sizes: `512x512`,
+				type: `image/png`,
+				},
+			],
 		},
 	},
 };

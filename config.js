@@ -2,8 +2,7 @@ const config = {
 	gatsby: {
 		pathPrefix: '/CoNET-Document/',
 		siteUrl: 'https://conet-project.github.io/',
-		gaTrackingId: null,
-		trailingSlash: false,
+		gaTrackingId: null
 	},
 	header: {
 		logo: 'https://getseguro.com/wp-content/uploads/2022/12/CoNE-logo.svg',

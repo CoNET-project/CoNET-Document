@@ -22,11 +22,11 @@ const config = {
 				</li>`,
 		links: [{ text: '', link: '' }],
 		search: {
-		enabled: false,
-		indexName: '',
-		algoliaAppId: process.env.GATSBY_ALGOLIA_APP_ID,
-		algoliaSearchKey: process.env.GATSBY_ALGOLIA_SEARCH_KEY,
-		algoliaAdminKey: process.env.ALGOLIA_ADMIN_KEY,
+			enabled: false,
+			indexName: '',
+			algoliaAppId: process.env.GATSBY_ALGOLIA_APP_ID,
+			algoliaSearchKey: process.env.GATSBY_ALGOLIA_SEARCH_KEY,
+			algoliaAdminKey: process.env.ALGOLIA_ADMIN_KEY,
 		},
 	},
 	sidebar: {
@@ -34,7 +34,7 @@ const config = {
 			"01-introduction.md"
 		],
 		collapsedNav: [],
-		links: [{ text: 'Try it', link: 'https://hasura.io' }],
+		links: [{ text: 'Try it', link: 'https://kloak.io' }],
 		frontLine: false,
 		ignoreIndex: true,
 		title:''
@@ -49,7 +49,7 @@ const config = {
 	pwa: {
 		enabled: false, // disabling this will also remove the existing service worker.
 		manifest: {
-			name: 'Gatsby Gitbook Starter',
+			name: 'CONET Gitbook Starter',
 			short_name: 'GitbookStarter',
 			start_url: '/',
 			background_color: '#6b37bf',

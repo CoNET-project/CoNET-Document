@@ -12,14 +12,8 @@ const config = {
 			"<a href='https://getseguro.com/'><img class='img-responsive' src='https://getseguro.com/wp-content/uploads/2022/12/CoNE-logo.svg' alt='Learn logo' /></a>",
 		githubUrl: '',
 		helpUrl: '',
-		tweetText: 'Twitter',
-		social: `<li>
-					<a href="https://twitter.com/CoNET61378093" target="_blank" rel="noopener">
-					<div class="twitterBtn">
-						<img src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/twitter-brands-block.svg' alt={'Twitter'}/>
-					</div>
-					</a>
-				</li>`,
+		tweetText: '',
+		social: ``,
 		links: [{ text: '', link: '' }],
 		search: {
 			enabled: false,

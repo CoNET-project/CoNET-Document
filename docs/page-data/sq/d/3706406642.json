@@ -1,1 +1,1 @@
-{"data":{"allMdx":{"edges":[{"node":{"fields":{"slug":"/"},"tableOfContents":{"items":[{"url":"#lists","title":"Lists"},{"url":"#links","title":"Links"}]}}},{"node":{"fields":{"slug":"/01-introduction"},"tableOfContents":{"items":[{"url":"#introduction","title":"Introduction"}]}}}]}}}
+{"data":{"allMdx":{"edges":[{"node":{"fields":{"slug":"/01-introduction"},"tableOfContents":{"items":[{"url":"#introduction","title":"Introduction"}]}}},{"node":{"fields":{"slug":"/"},"tableOfContents":{"items":[{"url":"#lists","title":"Lists"},{"url":"#links","title":"Links"}]}}}]}}}

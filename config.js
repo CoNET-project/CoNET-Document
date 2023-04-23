@@ -10,9 +10,9 @@ const config = {
 		logoLink: 'https://getseguro.com/',
 		title:
 			"<a href='https://getseguro.com/'><img class='img-responsive' src='https://getseguro.com/wp-content/uploads/2022/12/CoNE-logo.svg' alt='Learn logo' /></a>",
-		githubUrl: 'https://github.com/CoNET-project',
+		githubUrl: '',
 		helpUrl: '',
-		tweetText: '',
+		tweetText: 'Twitter',
 		social: `<li>
 					<a href="https://twitter.com/CoNET61378093" target="_blank" rel="noopener">
 					<div class="twitterBtn">

@@ -325,8 +325,8 @@ export const baseStyles = css`
     color: rgb(116, 129, 141);
     margin: 0px 0px 24px;
     padding: 0px 0px 0px 12px;
-    border-left: 4px solid rgb(230, 236, 241);
-    border-color: rgb(230, 236, 241);
+    border-left: 4px solid #001934;
+    border-color: #001934;
   }
   .socialWrapper {
     display: flex;
@@ -450,7 +450,7 @@ export const baseStyles = css`
   }
 
   .hideFrontLine .active > a {
-    background-color: #1ed3c6;
+    background-color: #001934;
     color: #fff !important;
   }
   .firstLevel ul li .collapser svg path {
@@ -470,7 +470,7 @@ export const baseStyles = css`
   }
 
   .sideBarUL .item > a {
-    color: #1ED3C6;
+    color: #001934;
     text-decoration: none;
     display: flex;
     align-items: center;
@@ -499,16 +499,16 @@ export const baseStyles = css`
 
   .showFrontLine .item .item {
     border-left: 1px solid #e6ecf1;
-    border-left-color: rgb(230, 236, 241);
+    border-left-color: #001934;
     padding: 0;
     width: calc(100% - 16px) !important;
   }
 
   .showFrontLine .item .active > a {
-    border-color: rgb(230, 236, 241) !important;
+    border-color: #001934 !important;
     border-style: solid none solid solid;
     border-width: 1px 0px 1px 1px;
-    background-color: #1ed3c6 !important;
+    background-color: #001934!important;
     color: #fff;
   }
 
@@ -516,7 +516,7 @@ export const baseStyles = css`
     display: flex;
     align-items: center;
     padding-bottom: 40px;
-    border-bottom: 1px solid rgb(230, 236, 241);
+    border-bottom: 1px solid #001934;
     margin-bottom: 32px;
   }
 

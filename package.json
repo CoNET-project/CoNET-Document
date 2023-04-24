@@ -57,7 +57,7 @@
   "main": "n/a",
   "scripts": {
     "start": "gatsby develop",
-    "build": "gatsby clean && rm -r docs/* && gatsby build --prefix-paths && rm -rf docs/*; mv public/* docs/",
+    "build": "gatsby clean && gatsby build --prefix-paths && rm -rf docs/*; mv public/* docs/",
     "format": "prettier --write \"src/**/*.{js,jsx,css,json}\"",
     "lint": "eslint --fix \"src/**/*.{js,jsx}\"",
     "develop": "NODE_OPTIONS=--openssl-legacy-provider gatsby develop",

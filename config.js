@@ -24,7 +24,7 @@ const config = {
 		title: 'CONET Project',
 		description: '',
 		ogImage: null,
-		docsLocation: 'https://github.com/CoNET-project/CoNET-Document/tree/main/docs',
+		docsLocation: '',
 		favicon: 'https://kloak.io/favicon.ico',
 	}
 };

@@ -14,6 +14,7 @@
     "@mdx-js/react": "^1.6.22",
     "@philpl/buble": "^0.19.7",
     "@playlyfe/gql": "^2.6.2",
+    "@stackbit/gatsby-plugin-menus": "^0.0.4",
     "@styled-icons/fa-brands": "^10.26.0",
     "@styled-icons/fa-solid": "^10.32.0",
     "algoliasearch": "^4.9.3",
@@ -68,13 +69,13 @@
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "eslint": "^7.25.0",
-	"gh-pages": "^5.0.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-prettier": "^3.4.1",
     "eslint-plugin-react": "^7.23.2",
     "gatsby-plugin-remove-trailing-slashes": "^3.4.0",
+    "gh-pages": "^5.0.0",
     "prettier": "^2.2.1",
     "prism-react-renderer": "^1.2.1"
   }

@@ -2277,6 +2277,13 @@
   resolved "https://registry.yarnpkg.com/@socket.io/component-emitter/-/component-emitter-3.1.0.tgz#96116f2a912e0c02817345b3c10751069920d553"
   integrity sha512-+9jVqKhRSpsc591z5vX+X5Yyw+he/HCB4iQ/RYxw35CEPaY1gnsNE43nf9n9AaYjAQrTiI/mOwKUKdUs9vf7Xg==
 
+"@stackbit/gatsby-plugin-menus@^0.0.4":
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/@stackbit/gatsby-plugin-menus/-/gatsby-plugin-menus-0.0.4.tgz#d7e9ba055e1aa185ecc5d313752adc77c95cbf4c"
+  integrity sha512-WBcw7Xpk4uRwlWQV8xi95hjMoU1qzvMUxKB1N/aiq7WSKDSTVSN7v1yx1nsMSLzz8BWWLq43912/kEAot+GLiA==
+  dependencies:
+    lodash "^4.17.11"
+
 "@styled-icons/fa-brands@^10.26.0":
   version "10.47.0"
   resolved "https://registry.yarnpkg.com/@styled-icons/fa-brands/-/fa-brands-10.47.0.tgz#f21190720a614319ef52d39afe0f2518ae0bbd16"
@@ -8449,7 +8456,7 @@ lodash@4.17.15:
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
   integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
 
-lodash@^4.17.10, lodash@^4.17.15, lodash@^4.17.19, lodash@^4.17.20, lodash@^4.17.21, lodash@^4.17.4, lodash@~4.17.0:
+lodash@^4.17.10, lodash@^4.17.11, lodash@^4.17.15, lodash@^4.17.19, lodash@^4.17.20, lodash@^4.17.21, lodash@^4.17.4, lodash@~4.17.0:
   version "4.17.21"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
   integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==

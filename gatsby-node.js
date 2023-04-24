@@ -13,14 +13,14 @@ exports.createPages = ({ graphql, actions }) => {
 		fromPath: `/`,
 		isPermanent: true,
 		redirectInBrowser: true,
-		toPath: `/main/01-introduction`,
+		toPath: `/01-introduction`,
 	});
 
 	createRedirect({
 		fromPath: ``,
 		isPermanent: true,
 		redirectInBrowser: true,
-		toPath: `/main/01-introduction`,
+		toPath: `/01-introduction`,
 	})
 	
 	return new Promise((resolve, reject) => {

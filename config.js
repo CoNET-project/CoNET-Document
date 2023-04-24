@@ -24,8 +24,8 @@ const config = {
 		title: 'CONET Project',
 		description: '',
 		ogImage: null,
-		docsLocation: 'https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content',
-		favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
+		docsLocation: 'https://github.com/CoNET-project/CoNET-Document/tree/main/docs',
+		favicon: 'https://kloak.io/favicon.ico',
 	}
 };
 

@@ -56,27 +56,13 @@ const plugins = [
 		options: {
 		  // static definition of menu items (optional)
 		  menus: {
-			main: [
-				{
-					identifier: 'main', // identifier for this item (optional)
-					title: 'Introduction',
-					url: '/main',
-					weight: 1
-				},
-				{
-					identifier: 'conet-network-layer', // identifier for this item (optional)
-					title: 'CONET Network Layer',
-					url: '/main/CONET-Network-Layer',
-					weight: 2
-				}
-			]
 		  },
 		  // Gatsby node types from which we extract menus (optional, see "Advanced usage")
 		  sourceNodeType: 'MarkdownRemark', 
 		  // the relative node path where we can find the 'menus' container (optional)
 		  //sourceDataPath: 'content/menus',
 		  // the relative node path where we can find the page's URL (required)
-		  sourceUrlPath: '/content',
+		  sourceUrlPath: '/content/main',
 		  // custom menu loading function (optional)
 		  // menuLoader: customLoaderFunction,
 		  // the property to use for injecting to the page context (optional, see "Advanced usage")

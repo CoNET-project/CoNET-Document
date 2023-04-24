@@ -2,8 +2,8 @@
 title: "Index page"
 metaTitle: "Index page set up"
 metaDescription: "We redirect from our root path to the introduction page directly."
-menus: main # identifier of menu container
-weight: 8
+menus: "main" # identifier of menu container
+weight: "7"
 ---
 
 

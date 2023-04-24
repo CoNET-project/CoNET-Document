@@ -2,8 +2,8 @@
 title: "Improvements and adjustments"
 metaTitle: "Improvements and adjustments"
 metaDescription: "Steps for fix and improve the gatsby site"
-menus: main # identifier of menu container
-weight: 6
+menus: "main" # identifier of menu container
+weight: "5"
 ---
 
 # Fixing the navigation

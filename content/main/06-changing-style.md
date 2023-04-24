@@ -2,8 +2,8 @@
 title: "Changing the style"
 metaTitle: "Changing the tutorial style"
 metaDescription: "Steps for change style of the tutorial using CSS"
-menus: main # identifier of menu container
-weight: 7
+menus: "main" # identifier of menu container
+weight: "6"
 ---
 
 # Color theme
